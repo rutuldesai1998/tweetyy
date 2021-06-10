@@ -1,2 +1,2 @@
 # tweetyy
-Twitter like application.
+Twitter like social application.
